@@ -23,9 +23,6 @@ This folder focuses on value-based reinforcement learning methods.
 ### **RL-HW3**
 This folder contains work on on-policy reinforcement learning algorithms.
 
-- **`RL_HW3.pdf`**  
-  The written report summarizing the assignment, experiments, and results.
-
 - **`RL_HW3_On_Policy.ipynb`**  
   Implements and evaluates **REINFORCE** and **Proximal Policy Optimization (PPO)**.  
   Covers policy gradient estimation, variance reduction, and clipped objective optimization.
